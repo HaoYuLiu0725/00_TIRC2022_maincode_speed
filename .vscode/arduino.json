@@ -1,0 +1,7 @@
+{
+    "sketch": "00_TIRC2022_maincode_speed.ino",
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega",
+    "port": "COM8",
+    "output": "../build"
+}
